@@ -1,4 +1,4 @@
-### BCR-SEQC consortium ###
+### BCR-SEQC Reference Materials ###
 
-Code files associated with publications from the BCR-SEQC project will be uploaded here.
+Analysis scripts, processed VDJ rearrangement data, and other data associated with the "Reference materials for benchmarking B cell receptor sequencing" paper are available here.
 
